@@ -22,6 +22,6 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição
 
 ## Licença
 
-(A ser adicionada)
+(De estudante, usada nos cases de estudo)
 
 
